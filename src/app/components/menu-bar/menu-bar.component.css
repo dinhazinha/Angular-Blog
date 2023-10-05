@@ -1,6 +1,9 @@
 .container__menu-bar > ul {
-  display: flex;
+  margin-top: 20px;
   flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
  }
 
  .container__menu-bar > ul > li {
