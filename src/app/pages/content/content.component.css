@@ -1,5 +1,5 @@
 .container__content {
-  border: 1px solid white;
+
   width: 100%;
   height: 100vh;
 
@@ -12,7 +12,7 @@
 }
 
 .content__cover > img {
-  border: 1px solid blueviolet;
+
   border-radius: 5px;
   width: 500px;
   min-width: 500px;
@@ -24,5 +24,6 @@
 }
 
 .content__description > p {
+  margin-top: 20px;
   color: rgb(198, 197, 197);
 }
